@@ -1,8 +1,5 @@
 # Projecty Currency
 
-## Source code:
-https://github.com/carlosjulioperez/handsoncode/tree/main/java/springBoot/users
-
 ## Clean environment
 `$ ./gradlew clean`
 
